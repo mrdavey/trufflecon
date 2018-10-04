@@ -11,7 +11,7 @@ contract MintableToken is Token{
 
     function mint(uint value) isOwner(){
 
-        require(int(value) + totalMinted > totalMinted);
+        require(int(value) + totalMinted < totalMintable);
         totalMinted += int(value);
 
         balances[msg.sender] += value;
