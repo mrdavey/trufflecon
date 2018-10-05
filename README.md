@@ -9,13 +9,13 @@
 
 ### Course content
 
-We will give a 3.5 hour workshop on our fuzzer, [Echidna](https://github.com/trailofbits/echidna/), and our symbolic analysis toolkit, [Manticore](https://github.com/trailofbits/manticore) at TruffleCon 2018. The workshop serves as a basic introduction to analyze smart contracts using both tools. 
+This is a 3.5 hour workshop on programmatic smart contract security. It describes how to use a fuzzer, [Echidna](https://github.com/trailofbits/echidna/), and a symbolic analysis toolkit, [Manticore](https://github.com/trailofbits/manticore) to review the security of smart contracts and prove correctness of certain functionality.
 
 Presented at
- * [TruffleCon2018](https://truffleframework.com/trufflecon2018)
+ * [TruffleCon 2018](https://truffleframework.com/trufflecon2018)
 
 Authored by
  * Josselin Feist
 
 
-Note: This repository is temporary, the material will be move to [trailofbits/presentations](https://github.com/trailofbits/presentations) after the workshop.
+Note: This repository is temporary, the material will be move to [trailofbits/publications](https://github.com/trailofbits/publications) after the workshop.
